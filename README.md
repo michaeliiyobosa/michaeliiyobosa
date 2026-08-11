@@ -6,7 +6,8 @@ CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with ha
 ## ⚠️ School Projects
 
 - **[Presentation on Ansible](https://youtu.be/bi2Z54HWrVA)**
-
+- **[Presentation on IT Overview](https://youtu.be/IkNCjYDkhqc)**
+- - **[Presentation on Benefit of EDR](https://youtu.be/vduPMeM9rkc)**
 
 ## ⚠️ Vulnerability Management Projects
 
