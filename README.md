@@ -5,7 +5,7 @@ CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with ha
 
 School Projects
 
-- ** [Presentation on Ansible](https://youtu.be/bi2Z54HWrVA)**
+- **[Presentation on Ansible](https://youtu.be/bi2Z54HWrVA)**
 
 
 ## ⚠️ Vulnerability Management Projects
