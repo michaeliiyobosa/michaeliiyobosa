@@ -3,7 +3,7 @@
 CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with hands-on Security Operations Center (SOC) experience through a cybersecurity internship and security-focused systems administration background. Skilled in SIEM monitoring, alert triage, incident investigation, threat hunting, vulnerability management, endpoint detection and response, KQL, Microsoft Sentinel, Defender for Endpoint, Tenable.sc, Active Directory, Azure, Windows and Linux security. Experienced in analyzing security telemetry, investigating suspicious activity, supporting containment and remediation, tuning detections, and documenting incident findings. Combines cybersecurity education, cloud knowledge, military service, and practical SOC lab experience to support fast-paced security operations.
 
 
-School Projects
+## ⚠️ School Projects
 
 - **[Presentation on Ansible](https://youtu.be/bi2Z54HWrVA)**
 
