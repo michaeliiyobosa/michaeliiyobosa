@@ -16,7 +16,7 @@ CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with ha
 - **[Presentation on System Development Lifecycle Pt.1 ( Case Study)](https://youtu.be/aY91BeHUUz0)**
 - **[Presentation on System Development Lifecycle Pt.2 (Case Study)](https://youtu.be/3JwmnzFEKVQ)**
 - **[Presentation on System Development Lifecycle Pt.3 (Case Study)](https://youtu.be/Ua0sDY037aI)**
-- - **[Presentation on System Development Lifecycle Pt.4 (Case Study)](https://youtu.be/FRzu3V9lM6o)**
+- **[Presentation on System Development Lifecycle Pt.4 (Case Study)](https://youtu.be/FRzu3V9lM6o)**
 - **[Presentation on Case of Study Isee you eyecare | I acted as the Managing Director Kareen](https://youtu.be/F4_JjgPAKWg)**
 - **[Presentation on Microsoft Software Development Lifecycle)](https://youtu.be/47lWwDybmP4)**
 - **[Presentation on Payment Card industry Data Security Standards)](https://youtu.be/B8kWW58qw9M)**
