@@ -9,7 +9,16 @@ CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with ha
 - **[Presentation on IT Overview](https://youtu.be/IkNCjYDkhqc)**
 - **[Presentation on Threat Intelligence technologies, benefit of EDR](https://youtu.be/vduPMeM9rkc)**
 - **[Presentation on OWASP TOP 10](https://youtu.be/NENfhnd1bZg)** 
+- **[Presentation on Creating Webiste with Ngnix enbale](https://youtu.be/MgsoCRjMSkY)**
+- **[Presentation on Distributed Denial of Service](https://youtu.be/2OHaqs2_35g)**
+- **[Presentation on System Development Lifecycle Pt.1 ( Case Study)](https://youtu.be/aY91BeHUUz0)**
+- **[Presentation on System Development Lifecycle Pt.2](https://youtu.be/3JwmnzFEKVQ)**
 
+
+
+
+
+  
 ## ⚠️ School Projects Image
 - **[Vlan Structure](https://shorturl.at/M4dQx)**
 
