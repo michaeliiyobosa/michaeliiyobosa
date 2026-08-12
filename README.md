@@ -10,7 +10,7 @@ CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with ha
 - **[Presentation on Threat Intelligence technologies, benefit of EDR](https://youtu.be/vduPMeM9rkc)**
 
 ## ⚠️ School Projects Image
-- **[Topography](https://shorturl.at/M4dQx)**
+- **[Vlan Structure](https://shorturl.at/M4dQx)**
 
 ## ⚠️ Vulnerability Management Projects
 
