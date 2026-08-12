@@ -9,6 +9,9 @@ CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with ha
 - **[Presentation on IT Overview](https://youtu.be/IkNCjYDkhqc)**
 - **[Presentation on Threat Intelligence technologies, benefit of EDR](https://youtu.be/vduPMeM9rkc)**
 
+## ⚠️ School Projects Image
+- **[Topography](https://shorturl.at/M4dQx)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/michaeliiyobosa/vulnerability-management-program)**
