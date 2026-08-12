@@ -11,6 +11,8 @@ CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with ha
 ## 🚨 Ai + Cybersecurity
 
 
+
+<br>
 ## ⚠️ School Projects
 
 - **[Presentation on Ansible](https://youtu.be/bi2Z54HWrVA)**
