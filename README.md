@@ -37,8 +37,7 @@ CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with ha
 
 ## 🤳 Connect With Me
 
-**[twitter]: https://twitter.com/ryhma01**
-## [youtube]: https://www.youtube.com/c/michaeliiyobosa
-## [instagram]: https://www.instagram.com/michaeliiyobosa
-## [linkedin]: https://linkedin.com/in/michaeliyobosa
+**Twitter: https://twitter.com/ryhma01**
+**Youtube: https://www.youtube.com/c/michaeliiyobosa**
+**linkedin: https://linkedin.com/in/michaeliyobosa**
 
