@@ -25,23 +25,17 @@ CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with ha
 ## ⚠️ School Projects Image
 - **[Vlan Structure](https://shorturl.at/M4dQx)**
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Projects
+## 🚨 Introduction
+## 🚨 Cyber theory
+## 🚨 Cyber Defense
+## 🚨 Vulnerability Management
+## 🚨 Threat Hunts
+## 🚨 Ai + Cybersecurity
 
-- **[Vulnerability Management Program Implementation](https://github.com/michaeliiyobosa/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/michaeliiyobosa/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/michaeliiyobosa/threat-hunting-scenario-tor)**
-
-<hr/>
 
 ## 🤳 Connect With Me
-
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ## [twitter]: https://twitter.com/ryhma01
 ## [youtube]: https://www.youtube.com/c/michaeliiyobosa
