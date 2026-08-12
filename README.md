@@ -12,9 +12,9 @@ CySA+-certified cybersecurity professional and U.S. Army Reserve Soldier with ha
 - **[Presentation on Creating Webiste with Ngnix enbale](https://youtu.be/MgsoCRjMSkY)**
 - **[Presentation on Distributed Denial of Service](https://youtu.be/2OHaqs2_35g)**
 - **[Presentation on System Development Lifecycle Pt.1 ( Case Study)](https://youtu.be/aY91BeHUUz0)**
-- **[Presentation on System Development Lifecycle Pt.2](https://youtu.be/3JwmnzFEKVQ)**
-
-
+- **[Presentation on System Development Lifecycle Pt.2 (Case Study)](https://youtu.be/3JwmnzFEKVQ)**
+- **[Presentation on System Development Lifecycle Pt.3 (Case Study)](https://youtu.be/Ua0sDY037aI)**
+- **[Case of Study Isee you eyecare | I acted as the Managing Director Kareen](https://youtu.be/F4_JjgPAKWg)**
 
 
 
